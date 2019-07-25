@@ -1,1 +1,5 @@
-*.txt
+# Comment
+tmp.txt
+.DS_Store
+*.zip
+*.gz
