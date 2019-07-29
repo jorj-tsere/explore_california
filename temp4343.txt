@@ -1,0 +1,20 @@
+total 103
+drwxr-xr-x 1 g.tsereteli 1049089     0 Jul 29 18:10 ./
+drwxr-xr-x 1 g.tsereteli 1049089     0 Jul 26 13:53 ../
+drwxr-xr-x 1 g.tsereteli 1049089     0 Jul 29 18:09 .git/
+-rw-r--r-- 1 g.tsereteli 1049089    48 Jul 25 12:17 .gitignore
+drwxr-xr-x 1 g.tsereteli 1049089     0 Jul 24 20:18 assets/
+-rw-r--r-- 1 g.tsereteli 1049089 14804 Jul 26 13:25 contact.html
+drwxr-xr-x 1 g.tsereteli 1049089     0 Mar 20  2011 explorers/
+-rw-r--r-- 1 g.tsereteli 1049089  8362 Jul 24 20:42 explorers.html
+-rw-r--r-- 1 g.tsereteli 1049089  6585 Jul 29 17:58 index.html
+-rw-r--r-- 1 g.tsereteli 1049089  7291 Jul 29 17:58 mission.html
+drwxr-xr-x 1 g.tsereteli 1049089     0 Jul 24 20:42 resources/
+-rw-r--r-- 1 g.tsereteli 1049089  7335 Jul 26 13:25 resources.html
+-rw-r--r-- 1 g.tsereteli 1049089  8464 Jul 24 20:42 support.html
+-rw-r--r-- 1 g.tsereteli 1049089     0 Jul 29 18:10 temp4343.txt
+drwxr-xr-x 1 g.tsereteli 1049089     0 Jul 25 12:30 testdir/
+-rw-r--r-- 1 g.tsereteli 1049089    13 Jul 25 12:14 tmp.txt
+-rw-r--r-- 1 g.tsereteli 1049089    48 Jul 25 12:20 tmp2.txt
+drwxr-xr-x 1 g.tsereteli 1049089     0 Jul 24 21:41 tours/
+-rw-r--r-- 1 g.tsereteli 1049089 13369 Jul 29 17:54 tours.html
