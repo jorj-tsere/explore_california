@@ -1,0 +1,5 @@
+expenses
+
+groceries $39
+balls	40$
+
